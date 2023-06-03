@@ -1,0 +1,223 @@
+{
+    "quiz": [
+        {   "id": 1,
+            "question": "What does CSS stand for?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "Creative Style Sheets",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "Computer Style Sheets",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "Colorful Style Sheets",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "Cascading Style Sheets  ",
+                    "isCorrect": true 
+                }
+            ]
+        },
+        {   
+            "id": 2,
+            "question": "Which HTML attribute is used to define inline styles?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "styles",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "font",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "style",
+                    "isCorrect": true 
+                },
+                {
+                    "titleAnswer": "class",
+                    "isCorrect": false 
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Which is the correct CSS syntax?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "{body:color=black;}",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "body:color=black;",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "{body;color:black;}",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "body {color: black;}",
+                    "isCorrect": true 
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "How do you insert a comment in a CSS file?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "' this is a comment",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "/* this is a comment */",
+                    "isCorrect": true 
+                },
+                {
+                    "titleAnswer": "// this is a comment //",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "// this is a comment",
+                    "isCorrect": false 
+                }
+            ]
+        },
+        {   
+            "id": 5,
+            "question": "Which CSS property controls the text size?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "font-style",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "text-size",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "text-style",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "font-size",
+                    "isCorrect": true 
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "What is the correct CSS syntax for making all the <p> elements bold?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "p {font-weight:bold;}",
+                    "isCorrect": true 
+                },
+                {
+                    "titleAnswer": "<p style=\"font-size:bold;\">",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "p {text-size:bold;}",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "<p style=\"text-size:bold;\">",
+                    "isCorrect": true 
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "How do you display hyperlinks without an underline?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "a {text-decoration:no-underline;}",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "a {decoration:no-underline;}",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "a {text-decoration:none;}",
+                    "isCorrect": true 
+                },
+                {
+                    "titleAnswer": "a {underline:none;}",
+                    "isCorrect": false 
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "How do you make each word in a text start with a capital letter?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "text-transform:capitalize",
+                    "isCorrect": true 
+                },
+                {
+                    "titleAnswer": "You can't do that with CSS",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "text-style:capitalize",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "transform:capitalize",
+                    "isCorrect": false 
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question": "How do you select an element with id 'demo'?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "#demo",
+                    "isCorrect": true 
+                },
+                {
+                    "titleAnswer": "*demo",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": ".demo",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "demo",
+                    "isCorrect": false 
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question": "How do you select elements with class name 'test'?",
+            "optionAnswer": [
+                {
+                    "titleAnswer": "*test",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "test",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": "#test",
+                    "isCorrect": false 
+                },
+                {
+                    "titleAnswer": ".test",
+                    "isCorrect": true 
+                }
+            ]
+        }
+    ]
+}
