@@ -1,7 +1,7 @@
 import './App.css';
 import { Button } from 'antd';
 import { useEffect, useState } from 'react';
-import Quiz from './components/Quiz/QuizCpm';
+import Quiz from './components/Quiz';
 import logo from '../src/assets/img/icon-learn.png'
 
 function App() {

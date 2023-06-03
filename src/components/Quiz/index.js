@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import ResultCpm from '../Result/ResultCpm'
+import ResultCpm from '../Result'
 import { Button, Modal, Progress, Radio, Space, Tag, Tooltip } from 'antd'
 import { CloseOutlined } from '@ant-design/icons'
 import './quiz.css'
